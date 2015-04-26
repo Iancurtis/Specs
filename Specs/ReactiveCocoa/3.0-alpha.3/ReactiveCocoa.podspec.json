@@ -1,6 +1,6 @@
 {
   "name": "ReactiveCocoa",
-  "version": "3.0-beta.1",
+  "version": "3.0-alpha.3",
   "summary": "A framework for composing and transforming streams of values.",
   "description": "ReactiveCocoa (RAC) is an Objective-C framework for Functional Reactive Programming. It provides APIs for composing and transforming streams of values.",
   "homepage": "https://github.com/ReactiveCocoa/ReactiveCocoa/",
